@@ -2,3 +2,9 @@
 *.sln
 *.vcxproj
 *.vcxproj.*
+*.tlog
+*.ilk
+*.pdb
+*.log
+*.obj
+*.idb
