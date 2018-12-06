@@ -6,3 +6,4 @@
 1. Find out how does gcc work
 1. Compile main.c to yourSurName.exe using gcc
 1. Run this programm with debugger in VSCode
+test
