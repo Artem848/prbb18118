@@ -1,5 +1,8 @@
+# TODO
+
+1. Kernighan & Ritchie "C programming language"
+
 # Homeworks
 
-1. Write programm printing difference of two numbers.
-1. Write programm printing multiplication of two numbers.
-1. Write programm printing division of two numbers.
+1. Write programm reading degrees celcius & printing 'em in fahrenheits.
+1. Write programm reading fahrenheits & printing 'em in degrees celcius.

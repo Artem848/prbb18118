@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main1()
 {
 	//char name[10] = "John Doe";
 	//int age;
