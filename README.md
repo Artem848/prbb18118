@@ -4,5 +4,9 @@
 
 # Homeworks
 
-1. Write programm reading degrees celcius & printing 'em in fahrenheits.
-1. Write programm reading fahrenheits & printing 'em in degrees celcius.
+1. Write programm printing 10 first Fibonacchi numbers.
+1. Write programm printing 20 first odd numbers.
+1. Write programm printing 20 first even numbers.
+1. Write programm calculating & printing 10!.
+
+(2 points each)
