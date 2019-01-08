@@ -1,6 +1,4 @@
 .vs
-*.vcxproj
-*.vcxproj.*
 *.tlog
 *.ilk
 *.pdb
