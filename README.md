@@ -4,6 +4,5 @@
 
 # Homeworks
 
-1. Написать программу разбивающую пользовательское число на множители. (6 баллов)
-1. Write programm building array of 100 random values and printing their minimum & maximum. (6 баллов)
-1. Write programm reading inputs and printing amount of inputs, minimum and maximum.(не делать)
+1. Написать программу создающую массив из 100 случайных значений и выводящую "In n, n,...n minimal value is min, maximal value is max". (6 баллов)
+1. Написать программу считывающую из консоли значения пока не встретит 0 (не более 20 значений) и выводящую на экран минимальное, максимальное значения и количество введёных значений. (6 баллов)
