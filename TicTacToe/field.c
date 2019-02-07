@@ -1,5 +1,8 @@
-void printField() {
+#include <stdio.h>
+#include <stdlib.h>
 
+void printField() {
+	system("cls");
 	int k = 1;
 	for (int i = 0; i < 5; ++i) {
 		if (i % 2 == 1) printf("-----");
@@ -14,5 +17,4 @@ void printField() {
 		}
 		printf("\n");
 	}
-	getch();
 }

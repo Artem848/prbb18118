@@ -1,20 +1,19 @@
 #include <stdio.h>
 
+extern int notGameOver;
+
 void printField();
 void getInput();
 void checkInput();
 
 void gameLoop() {
-	while (1) {
+	while (notGameOver) {
 		printField();
 		getInput();
 		checkInput();
 	}
 }
 
-void getInput() {
-
-}
 void checkInput() {
 
 }

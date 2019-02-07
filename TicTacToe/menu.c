@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void gameLoop();
+extern int input;
 
 void printMenu() {
 	printf("888    d8b            888                        888\n");
@@ -12,7 +12,5 @@ void printMenu() {
 	printf("Y88b.  888 Y88b.      Y88b.  888  888 Y88b.      Y88b.  Y88..88P Y8b.\n");
 	printf(" \"Y888 888  \"Y8888P    \"Y888 \"Y888888  \"Y8888P    \"Y888  \"Y88P\"   \"Y8888\n");
 	printf("\nEnter 1 to begin or anything to exit! ");
-	int input;
 	scanf_s("%d", &input);
-	if (input == 1) gameLoop();
 }

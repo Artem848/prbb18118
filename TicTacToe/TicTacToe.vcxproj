@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="field.c" />
     <ClCompile Include="game.c" />
+    <ClCompile Include="getInput.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="menu.c" />
   </ItemGroup>
