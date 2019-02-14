@@ -13,7 +13,3 @@ void gameLoop() {
 		checkInput();
 	}
 }
-
-void checkInput() {
-
-}

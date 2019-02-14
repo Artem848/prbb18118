@@ -30,5 +30,11 @@
     <ClCompile Include="getInput.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="checkInput.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="init.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
