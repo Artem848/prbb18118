@@ -2,8 +2,15 @@
 
 extern int input;
 extern int player;
+extern int winner;
 
 void getInput() {
-	printf("Player %d choose your field: ", player);
-	scanf_s("%d", &input);
+	if (winner) {
+		printf("\nEnter 1 to play again or anything else to exit: ");
+		scanf_s("%d", &input);
+	}
+	else {
+		printf("\nPlayer %d choose your field: ", player);
+		scanf_s("%d", &input);
+	}
 }

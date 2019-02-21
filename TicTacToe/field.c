@@ -4,13 +4,20 @@
 extern int field[];
 extern int wrongInput;
 extern int player;
+extern int winner;
 
 void printField() {
 	system("cls");
 	if (wrongInput) {
-		printf("Player %d you chose wrong field\n", player);
+		printf("Player %d you chose wrong field\n\n", player);
 		wrongInput = 0;
 	}
+
+	if (winner) {
+		if (winner < 3) printf("Player %d wins!\n\n", winner);
+		else printf("Draw!!!\n\n");
+	}
+
 	int k = 0;
 	for (int i = 0; i < 5; ++i) {
 		if (i % 2 == 1) printf("-----");

@@ -118,6 +118,7 @@
     <ClCompile Include="checkInput.c" />
     <ClCompile Include="field.c" />
     <ClCompile Include="game.c" />
+    <ClCompile Include="gameOver.c" />
     <ClCompile Include="getInput.c" />
     <ClCompile Include="init.c" />
     <ClCompile Include="main.c" />
